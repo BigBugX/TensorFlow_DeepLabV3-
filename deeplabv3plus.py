@@ -1,4 +1,5 @@
 __author__ = 'Will@PCVG'
+# an implementation based on "lizhengwei1992"'s DeepLabV3+ pytorch version
 # Utils used with tensorflow implemetation
 
 from __future__ import print_function
